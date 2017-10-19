@@ -1,0 +1,42 @@
+Clara Fall (Rolle: Studierende)
+
+Clara Fall ist 20 Jahre alt und studiert Informatik mit Nebenfach Biologie im 4. Semester. 
+Ihre Noten sind bisher herausragend, aber Sie hat gemerkt, dass Sie viel lieber im Nebenfach Mathematik studieren würde.
+
+Reiner Zufall (Rolle: Mentor)
+
+Reiner Zufall ist 26 Jahre alt und arbeitet als Mentor im Mentoring-System der HHU.
+Er ist momentan krank, daher kann er nicht arbeiten.
+
+Larry Chrismes (Rolle: Organisator)
+
+Larry Chrismes ist 34 Jahre alt und organisiert das Mentoring-System der HHU.
+
+
+Ein Neuer Fall
+Ziel:            Clara Fall meldet sich für das Mentoring System an.
+Vorbedingung:    Clara muss sich im Auas einloggen.
+                 Clara klickt oben auf den Reiter "Mentoring System".
+Normaler Ablauf: Durch ihre Account-Informationen weiß das System, dass sie ein Student ist
+                 und bietet ihr ein anmelde-Formular an.
+                 Sie füllt ein Formular zur Beschreibung ihres Problems aus und schickt es ab.
+
+Krankmeldung
+Ziel:            Reiner Zufall meldet den Organisatoren, dass er krank ist und daher vretretung braucht.
+Vorbedingung:    Reiner muss sich im Auas einloggen.
+                 Reiner klickt oben auf den Reiter "Mentoring System".
+Normaler Ablauf: Durch seine Account-Informationen weiß das System, dass er ein Mentor ist,
+                 wodurch ihm das Mentoren Menü angezeigt wird, wo es unter anderem
+                 ein Status-drop-down-Menü gib, wo er "krank" auswählt und auf "senden" klickt.
+                 Daraufhin bekommen alle Organisatoren auf ihrem Dashboard eine neue Meldung. 
+                 
+Ersatz finden
+Ziel: Larry Chrismes teilt Clara einen neuen Mentor zu.
+Vorbedingung:    Larry muss sich im Auas einloggen.
+                 Larry klickt oben auf den Reiter "Mentoring-System".
+Normaler Ablauf: Durch seine Account-Informationen weiß das System, dass er ein Organisator ist
+                 wodurch ihm das Organisatoren Menü angezeigt wird.
+                 Auf seinem Dashboard kommt die Meldung, dass Reiner krank ist.
+                 Daraufhin schaut Larry in die Liste aller Mentoren (sortiert nach status),
+                 klickt einen verfügbaren Mentor an und wählt dann aus einer Liste der noch nicht
+                 zugewiesenen Studenten Clara aus und klickt bestätigen. 
